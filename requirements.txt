@@ -13,7 +13,7 @@ colorama==0.4.5
 commoncode==32.2.1
 construct==2.10.68
 container-inspector==31.1.0
-cryptography==42.0.5
+cryptography==44.0.1
 debian-inspector==31.1.0
 dockerfile-parse==1.2.0
 dparse2==0.7.0
@@ -78,4 +78,4 @@ urlpy==0.5
 wcwidth==0.2.5
 webencodings==0.5.1
 xmltodict==0.13.0
-zipp==3.8.1
+zipp==3.19.1
