@@ -44,7 +44,7 @@ packageurl-python==0.15.0
 packaging==24.1
 packvers==21.5
 parameter-expansion-patched==0.3.1
-pdfminer.six==20220524
+pdfminer.six==20251107
 pefile==2022.5.30
 pip-requirements-parser==32.0.1
 pkginfo2==30.0.0
